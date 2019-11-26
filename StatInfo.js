@@ -186,6 +186,4 @@ var YouPin_stat = {
     }
 };
 YouPin_stat.init();
-×
-拖拽到此处
-图片将完成下载
+
